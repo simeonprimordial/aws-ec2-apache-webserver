@@ -5,14 +5,7 @@
 ![Apache](https://img.shields.io/badge/Web_Server-Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-System_Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-![Architecture](https://img.shields.io/badge/Architecture-Production_Ready-success?style=for-the-badge)
-![Documentation](https://img.shields.io/badge/Documentation-Complete-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
-![Project](https://img.shields.io/badge/AWS_80_Projects-3%2F80-orange?style=for-the-badge)
 
-![License](https://img.shields.io/github/license/simeonprimordial/aws-ec2-apache-webserver?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/simeonprimordial/aws-ec2-apache-webserver?style=for-the-badge)
-![Repo Size](https://img.shields.io/github/repo-size/simeonprimordial/aws-ec2-apache-webserver?style=for-the-badge)
 
 ---
 
